@@ -1,0 +1,12 @@
+===== SUPERMARKET BILL =====
+Date: 2026-04-30 18:27:06
+
+Rice x1 = ₹50.0
+Milk x6 = ₹150.0
+Bread x3 = ₹90.0
+Sugar x4 = ₹160.0
+
+Subtotal: ₹450.0
+GST: ₹22.5
+Discount: ₹0
+Grand Total: ₹472.5
